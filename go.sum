@@ -1,0 +1,10 @@
+github.com/Bitterwhale/go-mem v0.0.0-20150927210441-09f95b73941f h1:LseMUO8JzIccQTO5g3cG87LJsXo243qFFBvDX5bAzCo=
+github.com/Bitterwhale/go-mem v0.0.0-20150927210441-09f95b73941f/go.mod h1:CW2EprX1giiPV6HZBPeofQlDLSnEnWoMngoy4aBIWyE=
+github.com/TheTitanrain/w32 v0.0.0-20200114052255-2654d97dbd3d h1:2xp1BQbqcDDaikHnASWpVZRjibOxu7y9LhAv04whugI=
+github.com/TheTitanrain/w32 v0.0.0-20200114052255-2654d97dbd3d/go.mod h1:peYoMncQljjNS6tZwI9WVyQB3qZS6u79/N3mBOcnd3I=
+github.com/Xustyx/goxymemory v0.0.0-20160511203545-5a186ebcf160 h1:VP/Srs+qrT4zUGCdM5doMFslak+tk9cTaCEapofzpVA=
+github.com/Xustyx/goxymemory v0.0.0-20160511203545-5a186ebcf160/go.mod h1:Isf0jtKQzJV5EwBe9sDy8vso/5K+Rh4wmqUr/J+ilnY=
+github.com/Xustyx/w32 v0.0.0-20160511232645-7f628311f4e8 h1:BygsECN5sbNhkUdQkWPLtpwpRjDIEl14vBxc73BSaTo=
+github.com/Xustyx/w32 v0.0.0-20160511232645-7f628311f4e8/go.mod h1:+7E94MV3Uy+A41SLtlKYxudwdTFBUGuXqhLbe0/iuHQ=
+github.com/xackery/w32 v0.0.0-20151106211303-d7e8304dd682 h1:02jnaJeI6N2njUCvRn3yfWQikGPG6EeV7XzJOCLnEHE=
+github.com/xackery/w32 v0.0.0-20151106211303-d7e8304dd682/go.mod h1:7ZvtJuw1cS7QbQJqlOCn6arssZFDtlixENuvvWNnM9w=
